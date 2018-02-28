@@ -10,3 +10,7 @@ pierwsza zmiana na branchu develop
 
 
 druga zmiana na branchu develop
+
+
+
+a teraz zmiana na masterze
