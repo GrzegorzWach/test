@@ -13,4 +13,8 @@ druga zmiana na branchu develop
 
 
 
+
 a teraz zmiana na masterze
+
+znowu zmiana na develop (punkt 62)
+
