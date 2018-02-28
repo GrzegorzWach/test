@@ -1,4 +1,3 @@
-
 plik1 na gałęzi master
 
 
@@ -6,3 +5,8 @@ po dodaniu branchu zmieniamy plik1
 
 
 pierwsza zmiana na branchu develop
+
+
+
+
+druga zmiana na branchu develop
