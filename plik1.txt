@@ -10,3 +10,6 @@ pierwsza zmiana na branchu develop
 
 
 druga zmiana na branchu develop
+
+
+znowu zmiana na develop (punkt 62)
